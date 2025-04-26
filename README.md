@@ -25,7 +25,7 @@
 
 <h2>📫 Ping me!</h2>
 <p>
-  <a href="t.me/SchachEnd">
+  <a href="https://t.me/SchachEnd">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" alt="Telegram"/>
   </a>
   <a href="mailto:ваша_почта">

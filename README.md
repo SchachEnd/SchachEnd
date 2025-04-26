@@ -1,6 +1,6 @@
 <h2 align="center">EN</h2>
 <h1 align="center">🚀 SchachEnd | Frontend Alchemist</h1>
-<p align="center">Превращаю макеты в <strong>быстрые</strong> и <strong>элегантные</strong> веб-приложения. Люблю чистый код, как шахматную партию — продуманный и без лишних ходов.</p>
+<p align="center">I turn designs into <strong>fast</strong> and <strong>elegant</strong> web apps. I love clean code like a game of chess — well-thought-out and with no wasted moves.</p>
 
 <h3 align="center">🛠️ Технологии и инструменты</h3>
 <p align="center">

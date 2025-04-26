@@ -1,4 +1,4 @@
-<code style="font-size: 24px">RU</code>
+<code style="font-size: 24">RU</code>
 <h1 align="center">🚀 SchachEnd | Frontend Alchemist</h1>
 <p align="center">Превращаю макеты в <strong>быстрые</strong> и <strong>элегантные</strong> веб-приложения. Люблю чистый код, как шахматную партию — продуманный и без лишних ходов.</p>
 

@@ -44,6 +44,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 
@@ -75,10 +77,10 @@
 
 <h2>📫 Контакты</h2>
 <p>
-  <a href="ваша_ссылка_telegram">
+  <a href="https://t.me/SchachEnd">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" alt="Telegram"/>
   </a>
-  <a href="mailto:ваша_почта">
+  <a href="mailto:work_email.danil@bk.ru">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="30" alt="Email"/>
   </a>
 </p>

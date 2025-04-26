@@ -1,3 +1,4 @@
+<span aling="center">RU</span>
 <h1 align="center">🚀 SchachEnd | Frontend Alchemist</h1>
 <p align="center">Превращаю макеты в <strong>быстрые</strong> и <strong>элегантные</strong> веб-приложения. Люблю чистый код, как шахматную партию — продуманный и без лишних ходов.</p>
 
@@ -29,9 +30,6 @@
   </a>
   <a href="mailto:ваша_почта">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="30" alt="Email"/>
-  </a>
-  <a href="ваша_ссылка_linkedin">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
 </p>
 

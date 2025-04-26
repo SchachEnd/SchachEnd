@@ -2,7 +2,7 @@
 <h1 align="center">🚀 SchachEnd | Frontend Alchemist</h1>
 <p align="center">I turn designs into <strong>fast</strong> and <strong>elegant</strong> web apps. I love clean code like a game of chess — well-thought-out and with no wasted moves.</p>
 
-<h3 align="center">🛠️ Технологии и инструменты</h3>
+<h3 align="center">🛠️ Tech stack & tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -12,20 +12,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h2>🔥 Обо мне</h2>
+<h2>🔥 About me</h2>
 <ul>
-  <li>💻 <strong>Frontend-разработчик</strong> с фокусом на создание интуитивных интерфейсов</li>
-  <li>🎨 Делаю <strong>анимации и микровзаимодействия</strong>, которые оживляют продукты</li>
-  <li>⚡ Оптимизирую производительность — чтобы всё работало молниеносно</li>
-  <li>♟️ В свободное время играю в <strong>шахматы</strong>, развиваю стратегическое мышление</li>
+  <li>💻 <strong>Frontend developer</strong> focused on building intuitive interfaces</li>
+  <li>🎨 I create <strong>animations and micro-interactions</strong> that bring products to life</li>
+  <li>⚡ I optimize performance to make everything lightning-fast</li>
+  <li>♟️ In my free time, I play <strong>chess</strong> to sharpen my strategic thinking</li>
 </ul>
 
-<h2>🧪 Текущие эксперименты</h2>
-<p>Изучаю <strong>React</strong> для расширения профессионального стека</p>
+<h2>🧪 Current experiments</h2>
+<p>Currently mastering <strong>React</strong> to level up my skills</p>
 
-<h2>📫 Контакты</h2>
+<h2>📫 Ping me!</h2>
 <p>
-  <a href="ваша_ссылка_telegram">
+  <a href="t.me/SchachEnd">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" alt="Telegram"/>
   </a>
   <a href="mailto:ваша_почта">

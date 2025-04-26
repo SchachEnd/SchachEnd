@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <em>P.S. Люблю <strong>кофе</strong>, <strong>инди-рок</strong> и сложные технические вызовы ★</em>
+  <em>P.S. <strong>Coffee</strong> addict • <strong>Indie rock</strong> enthusiast • Thrives on technical challenges ★</em>
 </p>
 
 

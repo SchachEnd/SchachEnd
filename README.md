@@ -23,6 +23,12 @@
 <h2>🧪 Current experiments</h2>
 <p>Currently mastering <strong>React</strong> to level up my skills</p>
 
+<h2>🗺️ How to navigate my repositories.</h2>
+<p>
+  The easiest way is to check the main repo: <strong><mark><a href="https://github.com/SchachEnd/Website__HTML-CSS-JS.git">Website__HTML-CSS-JS</a></mark></strong>.<br>
+  Alternatively, you can use the <strong><mark><a href="https://github.com/SchachEnd?tab=stars">Stars</a></mark></strong> tab — it's at the very end of my profile.<br>
+</p>
+
 <h2>📫 Ping me!</h2>
 <p>
   <a href="https://t.me/SchachEnd">
@@ -74,6 +80,12 @@
 
 <h2>🧪 Текущие эксперименты</h2>
 <p>Изучаю <strong>React</strong> для расширения профессионального стека</p>
+
+<h2>🗺️ Как ориентироваться по моим репозиториям.</h2>
+<p>
+  Для удобства лучше всего зайти в главный репозиторий <strong><mark><a href="https://github.com/SchachEnd/Website__HTML-CSS-JS.git">Website__HTML-CSS-JS</a></mark></strong>.<br>
+  Но так же можно использовать вкладку <strong><mark><a href="https://github.com/SchachEnd?tab=stars">Stars</a></mark></strong>, она так же находиться в профиле на последнем месте.<br>
+</p>
 
 <h2>📫 Контакты</h2>
 <p>

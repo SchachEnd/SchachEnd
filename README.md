@@ -25,7 +25,7 @@
 
 <h2>🗺️ How to navigate my repositories.</h2>
 <p>
-  The easiest way is to check the main repo: <strong><mark><a href="https://github.com/SchachEnd/Website__HTML-CSS-JS.git">Website__HTML-CSS-JS</a></mark></strong>.<br>
+  The easiest way is to check the main repo: <strong><mark><a href="https://github.com/SchachEnd/My_work_folder">My_work_folder</a></mark></strong>.<br>
   Alternatively, you can use the <strong><mark><a href="https://github.com/SchachEnd?tab=stars">Stars</a></mark></strong> tab — it's at the very end of my profile.<br>
 </p>
 
@@ -84,7 +84,7 @@
 
 <h2>🗺️ Как ориентироваться по моим репозиториям.</h2>
 <p>
-  Для удобства лучше всего зайти в главный репозиторий <strong><mark><a href="https://github.com/SchachEnd/Website__HTML-CSS-JS.git">Website__HTML-CSS-JS</a></mark></strong>.<br>
+  Для удобства лучше всего зайти в главный репозиторий <strong><mark><a href="https://github.com/SchachEnd/My_work_folder">My_work_folder</a></mark></strong>.<br>
   Но так же можно использовать вкладку <strong><mark><a href="https://github.com/SchachEnd?tab=stars">Stars</a></mark></strong>, она так же находиться в профиле на последнем месте.<br>
 </p>
 

@@ -21,7 +21,7 @@
 </ul>
 
 <h2>🧪 Current experiments</h2>
-<p>Currently mastering <strong>React</strong> to level up my skills</p>
+-
 
 <h2>🗺️ How to navigate my repositories.</h2>
 <p>
@@ -63,10 +63,10 @@
 <h3 align="center">🛠️ Технологии и инструменты</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -79,7 +79,8 @@
 </ul>
 
 <h2>🧪 Текущие эксперименты</h2>
-<p>Изучаю <strong>React</strong> для расширения профессионального стека</p>
+-
+<!-- <p>Изучаю <strong>React</strong> для расширения профессионального стека</p> -->
 
 <h2>🗺️ Как ориентироваться по моим репозиториям.</h2>
 <p>
